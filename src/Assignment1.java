@@ -17,5 +17,6 @@ public class Assignment1 {
         System.out.println(findMin(arr, 0));
         scanner.close();
     }
+
 }
 
